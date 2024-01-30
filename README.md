@@ -2,13 +2,24 @@
 
 
 
-I'm an aspiring software engineeer, proficient in Python and also  passionate about building data tools and also equipped with creative thinking and problem-solving skills. 
+I'm an aspiring software engineeer studying computer science at Kibo School of Technology, with a Bachelor's degree in view. Other than coding, i have experience in hair-styling. I am a team player and i am passionate about solving real-life problems. I'm on the lookout for fun projects to work on with other people. If you've got an idea, let's team up and make it happen! 
 
-- 🔭 I have worked on so any projects like Microprocessor-simulation,Digital Guestbook, Building a flask TO-DO app.
-- 🌱 I’m currently studying computer-science at Kibo School of Technology.
-- 👯 I’m looking to collaborate on software projects
-- 💬  Lets have a Meet or Zoom call, feel free to pick a slot on Calendly to talk with me.
-- ✉️  You can drop me an email at destiny.williams@kibo.school with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... i love cooking, i'm always called by my peers as Chef Dee.
+### These are some tools that i have experience with :
+-HTML AND CSS
+-JAVASCRIPT
+-GITHUB
+-TAILWIND
+-BOOTSRAP
+-FLASK
+-EXPRESS
+-PHYTHON
+
+### Some of the projects have worked on are:
+[MICROPROCESSOR](https://github.com/kibo-programming-1-july-23/microprocessor-simulation-DESTINY16-debug)
+[DIGITAL GUESSBOOK](https://github.com/kibo-web-app-dev-oct-23/week-6-assignment-guestbook-express-DESTINY16-debug)
+[FIZZBUZZ](https://github.com/DESTINY16-debug/fizzbuzz)
+
+### You can get in-touch with me through any of the social media platform:
+- [MY EMAIL](destiny.williams@kibo.school)
+- [Linkedln](https://www.linkedin.com/in/destiny-williams-b1b491284/)
 
