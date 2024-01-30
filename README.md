@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Destiny Williams
 
 
-**DESTINY16-debug/DESTINY16-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 I'm an aspiring software engineeer, proficient in Python and also  passionate about building data tools and also equipped with creative thinking and problem-solving skills. 
 
 - 🔭 I have worked on so any projects like Microprocessor-simulation,Digital Guestbook, Building a flask TO-DO app.
