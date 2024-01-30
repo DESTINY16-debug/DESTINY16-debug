@@ -21,6 +21,6 @@ I'm an aspiring software engineeer studying computer science at Kibo School of T
 - [FIZZBUZZ](https://github.com/DESTINY16-debug/fizzbuzz)
 
 ### You can get in-touch with me through any of the social media platform:
-- [MY EMAIL](destiny.williams@kibo.school)
+- [My Email](destiny.williams@kibo.school)
 - [Linkedln](https://www.linkedin.com/in/destiny-williams-b1b491284/)
 
