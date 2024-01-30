@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Destiny Williams
 
-<!--
+
 **DESTINY16-debug/DESTINY16-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ I'm an aspiring software engineeer, proficient in Python and also  passionate ab
 - ✉️  You can drop me an email at destiny.williams@kibo.school with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... i love cooking am always called by y peers as Chef Dee
--->
+
